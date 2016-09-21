@@ -19,7 +19,7 @@
         <java.version>1.7</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <docker.image.prefix>arey</docker.image.prefix>
+        <docker.image.prefix>dlyash</docker.image.prefix>
 
         <!-- Dates -->
         <jodatime-hibernate.version>1.3</jodatime-hibernate.version>
