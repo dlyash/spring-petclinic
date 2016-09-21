@@ -32,6 +32,7 @@
         <webjars-jquery.version>2.2.4</webjars-jquery.version>
         <dandelion.version>1.1.1</dandelion.version>
         <dandelion.datatables.version>1.1.0</dandelion.datatables.version>
+        <mysql-driver.version>6.0.4</mysql-driver.version>
 
         <cobertura.version>2.7</cobertura.version>
 
@@ -100,11 +101,11 @@
         </dependency>
 
         <!-- For MySql only -->
-        <!--dependency>
+        <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>${mysql-driver.version}</version>
-        </dependency-->
+        </dependency>
 
         <!-- EhCache -->
         <dependency>
